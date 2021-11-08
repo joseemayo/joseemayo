@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @joseemayo
+- I am currently a master's student at Texas State University studying Molecular Immunology with a focus in Bioinformatics.
+- 👀 I’m interested in prallel processing and data science: sepcificially data analysis/visualization and bioinformatics.
+- 🌱 I’m currently learning how to optimize my data analysis, data visualization and bioinformatic techniques. 
+- 💞️ I’m looking to collaborate on any innovative projects that optimize previously used tools or focuses on solving previously unrecognized probles by either accelerating or simplifing analysis pipelines.
+- 📫 How to reach me; email: joseemayo2@gmail.com
