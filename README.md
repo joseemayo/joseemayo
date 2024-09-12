@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseemayo
-- I have recently completed a master's degree in Information Technology and am actively seeking to transition into a Software Engineer role.
-- 👀 I’m interested in general software engineering processes, parallel processing, and data science.
-- 🌱 I’m currently polishing my Python and C++ Programming abilitieis and learning Java and SQL. 
+- I have recently completed a master's degree in Information Technology from Purdue University Global and am actively seeking a role as a Data Scientist, Data Analyst, Software Engineer, and similar roles.
+- 👀 I’m interested in data science, data visualization, and general software engineering processes.
+- 🌱 I’m currently polishing my SQL and Python Programming abilitieis. 
 - 💞️ I’m looking to collaborate on any innovative projects that focuses on solving previously unrecognized problems through powerful and adaptive solutions.
 - 📫 How to reach me; email: joseemayo2@gmail.com
